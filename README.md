@@ -8,3 +8,4 @@
 1. [less变量覆盖的正确姿势](https://github.com/lovelope/blog/issues/6)
 1. [使用 reduce 实现 map](https://github.com/lovelope/blog/issues/7)
 1. [为何 NaN 不等于 NaN（NaN != NaN）](https://github.com/lovelope/blog/issues/8)
+1. [原生 js 实现 bind](https://github.com/lovelope/blog/issues/9)
